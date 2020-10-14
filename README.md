@@ -2,7 +2,7 @@
 
    ## How to Setup
 install the required libraries
-###Tesseract
+### Tesseract
 Tesseracct is a model which you can install and use to detect the words
   ### Pytesseract
   ### Pillow
